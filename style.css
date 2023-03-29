@@ -1,0 +1,43 @@
+img {
+  width: 100%;
+}
+
+body {
+  min-height: 2200px;
+}
+
+.menu {
+  text-align: center;
+}
+
+.leftimg {
+  width: 49%;
+  float: left;
+  margin: 0 1% 0 0;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.rightimgs {
+  width: 49%;
+  float: left;
+  /* margin: 0 0 0 0%; */
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.smallImg {
+  max-height: 97px;
+}
+
+.text {
+  width: 100%;
+  clear: left;
+}
+
+.mediumImg {
+  display: block;
+  float: left;
+  width: 30%;
+  margin: 0 1% 0 2%;
+}
